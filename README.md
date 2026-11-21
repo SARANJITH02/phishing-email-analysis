@@ -105,12 +105,19 @@ Tools: Microsoft Message Header Analyzer, MXToolbox Header Analyzer.
 - CyberChef (Base64 decoding) **[add if used]**
 ## 9. Screenshots
  
-| Screenshot | Description |
-|---|---|
-| screenshots/01-email.png.jpeg | Phishing email as received |
-| `screenshots/02-headers-ms.png.jpeg` | Microsoft header analyzer output |
-| `screenshots/03-mxtoolbox.png.jpeg` | MXToolbox SPF / DKIM / DMARC and relay information |
-| `screenshots/04-virustotal.png.jpeg` | VirusTotal URL report (crop browser bar and bookmarks) |
+## 9. Screenshots
+
+### Phishing Email Body
+![Phishing email as received](screenshots/01-email.png.jpeg)
+
+### Microsoft Message Header Analyzer
+![Microsoft header analyzer output](screenshots/02-headers-ms.png.jpeg)
+
+### MXToolbox Header & Authentication Check
+![MXToolbox SPF, DKIM, DMARC and relay information](screenshots/03-mxtoolbox.png.jpeg)
+
+### VirusTotal URL Reputation Report
+![VirusTotal URL report](screenshots/04-virustotal.png.jpeg)
  
 ## 10. What I Learned
  

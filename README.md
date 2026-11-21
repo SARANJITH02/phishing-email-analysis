@@ -107,7 +107,7 @@ Tools: Microsoft Message Header Analyzer, MXToolbox Header Analyzer.
  
 | Screenshot | Description |
 |---|---|
-| `screenshots/01-email.png.jpeg` | Phishing email as received |
+| screenshots/01-email.png.jpeg | Phishing email as received |
 | `screenshots/02-headers-ms.png.jpeg` | Microsoft header analyzer output |
 | `screenshots/03-mxtoolbox.png.jpeg` | MXToolbox SPF / DKIM / DMARC and relay information |
 | `screenshots/04-virustotal.png.jpeg` | VirusTotal URL report (crop browser bar and bookmarks) |
